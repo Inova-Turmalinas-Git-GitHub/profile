@@ -1,6 +1,6 @@
-# Seu Primeiro e Último Nome
+# Yure Diniz
 
-## Seu Nome Completo
+## Yure Almeida Diniz
 
 ### Com oquê quer trabalhar ex: Desenvolvedor Dotnet
 
