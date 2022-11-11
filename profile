@@ -1,6 +1,6 @@
-# Yure Diniz
+# Coloque somente primeiro e ultimo nome
 
-## Yure Almeida Diniz
+## Coloque seu nome completo
 
 ### Com oquê quer trabalhar ex: Desenvolvedor Dotnet
 
